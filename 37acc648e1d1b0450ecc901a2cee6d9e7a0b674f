@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f5a756a4_04e47479",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1016707
+      },
+      "writtenOn": "2019-06-24T12:57:27Z",
+      "side": 1,
+      "message": "Check message",
+      "range": {
+        "startLine": 60,
+        "startChar": 0,
+        "endLine": 60,
+        "endChar": 1
+      },
+      "revId": "37acc648e1d1b0450ecc901a2cee6d9e7a0b674f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
